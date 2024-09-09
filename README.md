@@ -1,16 +1,6 @@
-# project
+                                                                 Fresh Groceries
+                                                                 
+                       Grocery Shop Delivery Application Developed through Flutter and Hosted in the Firebase Server.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+DESCRIPTION:
+It allows you to add grocery items to the cart and the cart will show the total value of grocery items you added. then it will redirected to the payment page where we will pay the bill or choose cash on delivery. then after choosing your options. The order will be placed
